@@ -1,7 +1,9 @@
 # Voltmeter
 Voltmeter using an ATMEGA328P microcontroller and a seven-segment display.
 
- - This is one of my graduate school projects. 
+ - This is one of my graduate school projects.
+   
+ - I used Microchip Studio to programing.
 
  - I developed a voltmeter using an ATMEGA328P microcontroller and a seven-segment display.
 
